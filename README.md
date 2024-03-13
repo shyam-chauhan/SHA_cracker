@@ -1,1 +1,1 @@
-#SHA hash cracker using bruteforce
+# SHA hash cracker using bruteforce
